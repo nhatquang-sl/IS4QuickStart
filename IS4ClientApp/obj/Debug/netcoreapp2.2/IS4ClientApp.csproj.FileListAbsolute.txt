@@ -1,0 +1,11 @@
+D:\IS4QuickStart\IS4ClientApp\bin\Debug\netcoreapp2.2\IS4ClientApp.deps.json
+D:\IS4QuickStart\IS4ClientApp\bin\Debug\netcoreapp2.2\IS4ClientApp.runtimeconfig.json
+D:\IS4QuickStart\IS4ClientApp\bin\Debug\netcoreapp2.2\IS4ClientApp.runtimeconfig.dev.json
+D:\IS4QuickStart\IS4ClientApp\bin\Debug\netcoreapp2.2\IS4ClientApp.dll
+D:\IS4QuickStart\IS4ClientApp\obj\Debug\netcoreapp2.2\IS4ClientApp.csproj.CoreCompileInputs.cache
+D:\IS4QuickStart\IS4ClientApp\obj\Debug\netcoreapp2.2\IS4ClientApp.AssemblyInfoInputs.cache
+D:\IS4QuickStart\IS4ClientApp\obj\Debug\netcoreapp2.2\IS4ClientApp.AssemblyInfo.cs
+D:\IS4QuickStart\IS4ClientApp\bin\Debug\netcoreapp2.2\IS4ClientApp.pdb
+D:\IS4QuickStart\IS4ClientApp\obj\Debug\netcoreapp2.2\IS4ClientApp.dll
+D:\IS4QuickStart\IS4ClientApp\obj\Debug\netcoreapp2.2\IS4ClientApp.pdb
+D:\IS4QuickStart\IS4ClientApp\obj\Debug\netcoreapp2.2\IS4ClientApp.csprojAssemblyReference.cache

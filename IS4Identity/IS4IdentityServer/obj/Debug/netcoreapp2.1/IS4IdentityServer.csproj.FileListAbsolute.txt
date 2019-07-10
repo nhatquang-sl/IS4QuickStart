@@ -1,0 +1,13 @@
+D:\IS4QuickStart\IS4Identity\IS4IdentityServer\bin\Debug\netcoreapp2.1\IS4IdentityServer.deps.json
+D:\IS4QuickStart\IS4Identity\IS4IdentityServer\bin\Debug\netcoreapp2.1\IS4IdentityServer.runtimeconfig.json
+D:\IS4QuickStart\IS4Identity\IS4IdentityServer\bin\Debug\netcoreapp2.1\IS4IdentityServer.runtimeconfig.dev.json
+D:\IS4QuickStart\IS4Identity\IS4IdentityServer\bin\Debug\netcoreapp2.1\IS4IdentityServer.dll
+D:\IS4QuickStart\IS4Identity\IS4IdentityServer\bin\Debug\netcoreapp2.1\IS4IdentityServer.pdb
+D:\IS4QuickStart\IS4Identity\IS4IdentityServer\obj\Debug\netcoreapp2.1\IS4IdentityServer.csproj.CoreCompileInputs.cache
+D:\IS4QuickStart\IS4Identity\IS4IdentityServer\obj\Debug\netcoreapp2.1\IS4IdentityServer.RazorAssemblyInfo.cache
+D:\IS4QuickStart\IS4Identity\IS4IdentityServer\obj\Debug\netcoreapp2.1\IS4IdentityServer.RazorAssemblyInfo.cs
+D:\IS4QuickStart\IS4Identity\IS4IdentityServer\obj\Debug\netcoreapp2.1\IS4IdentityServer.AssemblyInfoInputs.cache
+D:\IS4QuickStart\IS4Identity\IS4IdentityServer\obj\Debug\netcoreapp2.1\IS4IdentityServer.AssemblyInfo.cs
+D:\IS4QuickStart\IS4Identity\IS4IdentityServer\obj\Debug\netcoreapp2.1\IS4IdentityServer.RazorTargetAssemblyInfo.cache
+D:\IS4QuickStart\IS4Identity\IS4IdentityServer\obj\Debug\netcoreapp2.1\IS4IdentityServer.dll
+D:\IS4QuickStart\IS4Identity\IS4IdentityServer\obj\Debug\netcoreapp2.1\IS4IdentityServer.pdb
